@@ -1,5 +1,5 @@
 {
-    "name": "leinonen/yii2-algolia",
+    "name": "umn/yii2-algolia",
     "description": "Algolia bridge for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2", "algolia", "search"],
