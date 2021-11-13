@@ -6,18 +6,18 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Juuso Leinonen",
-            "email": "leinonen.juuso@gmail.com"
+            "name": "Umang Kathiyara",
+            "email": "umangnine@gmail.com"
         }
     ],
     "require": {
         "yiisoft/yii2": "^2.0",
-        "algolia/algoliasearch-client-php": "^1.25.0"
+        "algolia/algoliasearch-client-php": "^3.1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^4.8",
-        "mockery/mockery": "^0.9.4",
-        "yiisoft/yii2-dev": "^2.0"
+        "phpunit/phpunit": ">4.8",
+        "mockery/mockery": ">0.9.4",
+        "yiisoft/yii2-dev": ">2.0"
     },
     "autoload": {
         "psr-4": {
